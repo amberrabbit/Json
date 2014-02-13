@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jsonTest2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="json">jsonファイルの中身</string>
+    <string name="json_key">キーを指定して表示</string>
+    <string name="json_key_text">listの中のname</string>
+    <string name="kara"></string>
+    
+
+</resources>
